@@ -13,10 +13,10 @@
   "author": "Aman Joshi",
   "license": "ISC",
   "peerDependencies": {
-     "react": "18.2.0",
-    "react-native": "0.71.3",
-    "react-native-linear-gradient": "^2.7.2"
+    "react": "^18.0.0",
+    "react-native": "^0.71.3"
   },
+  
   "bugs": {
     "url": "https://github.com/amanjdew/ReactNativeComponent/issues"
   },
